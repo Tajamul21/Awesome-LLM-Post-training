@@ -6,7 +6,7 @@
 Welcome to the **Awesome-LLM-Post-training** repository! This repository is a curated collection of the most influential papers, code implementations, benchmarks, and resources related to **Large Language Models (LLMs) Post-Training  Methodologies**. 
 
 Our work is based on the following paper:  
-📄 **LLM Post-Training: A Deep Dive into Reasoning Large Language Models** – Available on [![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b.svg)](https://arxiv.org/pdf/2502.21321)).
+📄 **LLM Post-Training: A Deep Dive into Reasoning Large Language Models** – Available on [![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b.svg)](https://arxiv.org/pdf/2502.21321)
 
 Authors: **Komal Kumar∗, Tajamul Ashraf∗, Omkar Thawakar, Rao Muhammad Anwer, Hisham Cholakkal, Mubarak Shah, Ming-Hsuan Yang, Phillip H.S. Torr, Fahad Shahbaz Khan, Salman Khan**. 
 
