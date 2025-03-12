@@ -1,0 +1,71 @@
+Category,Research Keyword
+Advanced RL for LLMs,RLHF Scalability
+Advanced RL for LLMs,Efficient RL Training for Large Models
+Advanced RL for LLMs,Multi-Objective Reinforcement Learning LLMs
+Advanced RL for LLMs,Hierarchical RL for Complex Reasoning
+Advanced RL for LLMs,RLHF with Limited Human Feedback
+Advanced RL for LLMs,Reward Model Stability in Iterative Training
+Advanced RL for LLMs,Hybrid RL-Supervised Fine-Tuning
+Advanced RL for LLMs,Task-Specific RL for LLMs
+Advanced RL for LLMs,Offline RL for Language Model
+Advanced RL for LLMs,RL Dynamic Prompt Optimization
+Advanced RL for LLMs,Continual RLHF
+Advanced RL for LLMs,Human-in-the-Loop RL
+Advanced RL for LLMs,Policy Gradient for LLM Alignment
+Advanced RL for LLMs,Transformer Policy Learning
+Reward Modeling & Optimization,Process Reward Modeling
+Reward Modeling & Optimization,Outcome Reward Optimization
+Reward Modeling & Optimization,Self-Rewarding Language Models
+Reward Modeling & Optimization,Preference Calibration in RLHF
+Reward Modeling & Optimization,Combining Implicit and Explicit Reward Feedback
+Reward Modeling & Optimization,Mitigating Reward Hacking in RLHF
+Reward Modeling & Optimization,Red-Teaming Reward Models
+Reward Modeling & Optimization,Robust Reward Models for Multi-Turn Dialogues
+Reward Modeling & Optimization,Handling Noisy Human Preference Data
+Reward Modeling & Optimization,Bias Detection and Correction in Reward Models
+Reward Modeling & Optimization,Self-Supervised Reward Estimation
+Decoding & Search Strategies,Tree-of-Thoughts Search with RL
+Decoding & Search Strategies,Monte Carlo Tree Search for LLM Reasoning
+Decoding & Search Strategies,Search RL for Better Alignment
+Decoding & Search Strategies,Adaptive Search Generation
+Decoding & Search Strategies,Verifiable RLHF for Safety-Critical Tasks
+Decoding & Search Strategies,Confidence Decoding for LLMs
+"Safety, Robustness, and Interpretability",Adversarial Robustness in RL-Tuned LLMs
+"Safety, Robustness, and Interpretability",Safe RL for Language Model Alignment
+"Safety, Robustness, and Interpretability",Bias-Aware RL Training for LLMs
+"Safety, Robustness, and Interpretability",Ensuring Interpretability in RL-Finetuned Models
+"Safety, Robustness, and Interpretability",Automated Red-Teaming for RLHF Models
+"Safety, Robustness, and Interpretability",Ethical Considerations in RL-Driven LLMs
+"Safety, Robustness, and Interpretability",Uncertainty-Aware RL for LLM
+"Safety, Robustness, and Interpretability",Robust Generalization of RL-Tuned Models
+"Safety, Robustness, and Interpretability",Catastrophic Forgetting in RLHF
+"Safety, Robustness, and Interpretability",Trustworthy and Transparent LLM Fine-Tuning
+Personalization & Adaptation,Personalized Reinforcement Learning in LLMs
+Personalization & Adaptation,RL Adaptive Learning in Dialogue Systems
+Personalization & Adaptation,RL for Domain-Specific LLM
+Personalization & Adaptation,Privacy-Preserving RLHF
+Personalization & Adaptation,RL On-Device Adaptation for LLMs
+Personalization & Adaptation,Efficient Personalization via RL
+Personalization & Adaptation,Meta-RL for Generalizable LLM Training
+Personalization & Adaptation,Scaling RLHF to User-Specific Customization
+Multi-Agent and Interactive RL,Multi-Agent RL for Interactive Language Models
+Multi-Agent and Interactive RL,Collaborative Multi-LLM Systems with RL
+Multi-Agent and Interactive RL,Game-Theoretic RL for Conversational AI
+Multi-Agent and Interactive RL,Human-LLM Interactive RL
+Multi-Agent and Interactive RL,Self-Play in Large Language Model
+Energy Efficiency and Computation,Energy-Efficient RL for Large-Scale LLMs
+Energy Efficiency and Computation,Memory Optimization in RL-Fine-Tuned Models
+Energy Efficiency and Computation,Low-Resource RLHF
+Energy Efficiency and Computation,Parallelized RL for LLM 
+Energy Efficiency and Computation,Compression Strategies for RLHF-Tuned Models
+Multi-Modality and Next-Generation RLHF,RLHF for Multi-Modal Language Models
+Multi-Modality and Next-Generation RLHF,Cross-Modal RL Alignment
+Multi-Modality and Next-Generation RLHF,Vision-Language Alignment via RL
+Multi-Modality and Next-Generation RLHF,Reinforcement Learning for Multimodal Understanding
+Multi-Modality and Next-Generation RLHF,RL-Driven Content Creation and Editing
+Open Research Challenges,Scaling RLHF
+Open Research Challenges,Unifying RLHF with Unsupervised Pretraining
+Open Research Challenges,Bridging Symbolic AI and RL for Language Models
+Open Research Challenges,RL Knowledge Augmentation for LLMs
+Open Research Challenges,Automating Reward Model Design for LLMs
+Open Research Challenges,Evaluating LLM Reasoning with RLHF Benchmarks
