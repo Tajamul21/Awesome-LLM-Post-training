@@ -56,7 +56,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 |---------------------------------|----------------|---------------------------------|
 | LLM Post-Training: A Deep Dive into Reasoning Large Language Models | 28 Feb 2025 | [Arxiv](https://arxiv.org/pdf/2502.21321) |
 | From System 1 to System 2: A Survey of Reasoning Large Language Models | 25 Feb 2025 | [Arxiv](https://arxiv.org/abs/2502.17419) |
-| Empowering LLMs with Logical Reasoning: A Comprehensive Survey | 24 Fev 2025 | [Arxiv](https://arxiv.org/pdf/2502.15652)|
+| Empowering LLMs with Logical Reasoning: A Comprehensive Survey | 24 Feb 2025 | [Arxiv](https://arxiv.org/pdf/2502.15652)|
 | Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models | 16 Jan 2025 | [Arxiv](https://arxiv.org/abs/2501.09686) |
 |Harmful Fine-tuning Attacks and Defenses for Large Language Models: A Survey   | 26 Sep 2024 | [Arxiv](https://arxiv.org/abs/2409.18169) |
 | Reasoning with Large Language Models, a Survey | 16 July 2024 | [Arxiv](https://arxiv.org/abs/2407.11511) |
