@@ -308,7 +308,7 @@ If you find our work useful or use it in your research, please consider citing:
 ```bibtex
 @misc{kumar2025llmposttrainingdeepdive,
       title={LLM Post-Training: A Deep Dive into Reasoning Large Language Models}, 
-      author={Komal Kumar and Tajamul Ashraf and Omkar Thawakar and Rao Muhammad Anwer and Hisham Cholakkal and Mubarak Shah and Ming-Hsuan Yang and Phillip H. S. Torr and Salman Khan and Fahad Shahbaz Khan},
+      author={Komal Kumar and Tajamul Ashraf and Omkar Thawakar and Rao Muhammad Anwer and Hisham Cholakkal and Mubarak Shah and Ming-Hsuan Yang and Phillip H. S. Torr and Fahad Shahbaz Khan and Salman Khan},
       year={2025},
       eprint={2502.21321},
       archivePrefix={arXiv},
