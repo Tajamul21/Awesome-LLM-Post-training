@@ -190,6 +190,8 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 * Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought [[Paper]](https://arxiv.org/abs/2501.04682) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2501.06186) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * Two Heads Are Better Than One: Dual-Model Verbal Reflection at Inference-Time [[Paper]](https://arxiv.org/abs/2502.19230) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Exploring Iterative Enhancement for Improving Learnersourced Multiple-Choice Question Explanations with Large Language Models [[Paper]](http://arxiv.org/abs/2309.10444) ![](https://img.shields.io/badge/AAAI/EAAI-2025-blue)
+* AbductionRules: Training Transformers to Explain Unexpected Inputs [[Paper]](https://aclanthology.org/2022.findings-acl.19/) ![](https://img.shields.io/badge/ACL_Findings-2022-blue)
 ## Multimodal Agent related Slow-Fast System
 * Diving into Self-Evolving Training for Multimodal Reasoning [[Paper]](https://arxiv.org/abs/2412.17451) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * Visual Agents as Fast and Slow Thinkers [[Paper]](https://openreview.net/forum?id=ncCuiD3KJQ) ![](https://img.shields.io/badge/ICLR-2025-blue)
@@ -217,6 +219,9 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 * Humanity's Last Exam [[Paper]](https://arxiv.org/abs/2501.14249) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * LR<sup>2</sup>Bench: Evaluating Long-chain Reflective Reasoning Capabilities of Large Language Models via Constraint Satisfaction Problems [[Paper]](https://arxiv.org/abs/2502.17848) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * BIG-Bench Extra Hard [[Paper]](https://arxiv.org/abs/2502.19187) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning [[Paper]](https://arxiv.org/abs/2310.09430) ![](https://img.shields.io/badge/ICONIP-2024-blue)
+* Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation [[Paper]](https://arxiv.org/abs/2207.14000) ![](https://img.shields.io/badge/NeSy-2022-blue)
+* Large Language Models Are Not Strong Abstract Reasoners [[Paper]](https://arxiv.org/abs/2305.19555) ![](https://img.shields.io/badge/IJCAI-2024-blue)
 
 ## Reasoning and Safety
 * Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable [[Paper]](https://arxiv.org/abs/2503.00555v1) ![](https://img.shields.io/badge/arXiv-2025.03-red)
@@ -227,7 +232,8 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 * SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities [[Paper]](https://arxiv.org/abs/2502.12025) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking [[Paper]](https://arxiv.org/abs/2502.12893) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * BoT: Breaking Long Thought Processes of o1-like Large Language Models through Backdoor Attack [[Paper]](https://arxiv.org/abs/2502.12202) ![](https://img.shields.io/badge/arXiv-2025.02-red)
-
+* Abstract Meaning Representation-Based Logic-Driven Data Augmentation for Logical Reasoning [[Paper]](https://aclanthology.org/2024.findings-acl.353/) ![](https://img.shields.io/badge/ACL_Findings-2024-blue)
+* ChatLogic: Integrating Logic Programming with Large Language Models for Multi-step Reasoning [[Paper]](https://openreview.net/forum?id=AOqGF7Po7Z) ![](https://img.shields.io/badge/AAAI_WorkShop-2024-blue)
 
 ---
 ## 🚀 RL & LLM Fine-Tuning Repositories
